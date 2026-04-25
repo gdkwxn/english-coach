@@ -84,6 +84,23 @@ Then just chat normally in English. The skill will automatically correct and tea
 > **[Grammar]** "for practice" → "for practicing" — after "for", use the -ing form
 > **[Punctuation]** "english" → "English" — language names are always capitalized
 
+
+**English Corrections:**
+
+> ~~His has a great time yesterday.~~ → **He had a great time yesterday.**
+>
+> **[Grammar]** "His" → "He" - "His" is possesive, "He" is a subject pronoun
+> **[Grammar]** "has" → "had" — "yesterday" is past tense
+
+**English Corrections:**
+
+> ~~I wish to be at south Koreat in may.~~ → **I wish to be in South Korea in May.**
+>
+> **[Grammar]** "at" → "in" - "in" is used for countries
+> **[Spelling]** "Koreat" → "Korea"
+> **[Punctuation]** "south" → "South" — names of countries are always capitalized
+> **[Punctuation]** "may" → "May" — names of months are always capitalized
+
 **Phrase of the day:** "get the hang of" — to become comfortable with something new.
 *Example: "I'm starting to get the hang of English prepositions."*
 
