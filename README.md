@@ -65,7 +65,7 @@ In Claude Code, type:
 
 Then just chat normally in English. The skill will automatically correct and teach as you go.
 
-## Example
+## Example 1
 
 **You say:**
 > dose this work for practice my english?
@@ -84,7 +84,16 @@ Then just chat normally in English. The skill will automatically correct and tea
 > **[Grammar]** "for practice" → "for practicing" — after "for", use the -ing form
 > **[Punctuation]** "english" → "English" — language names are always capitalized
 
+## Example 2
 
+**You say:**
+> His has a great time yesterday
+
+**Claude responds:**
+
+*(answers your question)*
+
+---
 **English Corrections:**
 
 > ~~His has a great time yesterday.~~ → **He had a great time yesterday.**
@@ -92,6 +101,16 @@ Then just chat normally in English. The skill will automatically correct and tea
 > **[Grammar]** "His" → "He" - "His" is possesive, "He" is a subject pronoun
 > **[Grammar]** "has" → "had" — "yesterday" is past tense
 
+## Example 3
+
+**You say:**
+> I wish to be at south Koreat in may.
+
+**Claude responds:**
+
+*(answers your question)*
+
+---
 **English Corrections:**
 
 > ~~I wish to be at south Koreat in may.~~ → **I wish to be in South Korea in May.**
