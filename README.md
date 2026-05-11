@@ -100,7 +100,7 @@ Then just chat normally in English. The skill will automatically correct and tea
 > ~~His has a great time yesterday.~~ → **He had a great time yesterday.**
 >
 > **[Grammar]** "His" → "He" — "His" is possessive, "He" is a subject pronoun
-> **[Grammar]** "has" → "had" — "yesterday" is past tense
+> **[Grammar]** "has" → "had" — "yesterday" indicates past time, so the verb should be past tense
 
 ## Example 3
 
